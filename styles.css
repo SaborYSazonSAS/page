@@ -858,8 +858,10 @@ body.pagina-saliendo{
     display:block;content:'';position:absolute;top:0;bottom:auto;left:50%;height:1.3rem;
     margin-left:calc(var(--grosor) / -2);
     border-left:var(--grosor) solid var(--linea);
+  }
+}
 
-    /* =========================================================
+/* =========================================================
    SERVICIOS: foto
    ========================================================= */
 
@@ -902,5 +904,3 @@ body.pagina-saliendo{
 #servicios .tarjeta-servicio h3{color:var(--blanco);text-shadow:0 1px 8px rgba(0,0,0,.35);}
 #servicios .tarjeta-servicio p{color:rgba(255,254,249,.92);text-shadow:0 1px 8px rgba(0,0,0,.35);}
 #servicios .tarjeta-servicio .num{color:rgba(255,254,249,.85);}
-  }
-}
